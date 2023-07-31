@@ -1,4 +1,4 @@
-# Compare the Impact of Kernel Initializers and Optimizers on the Performance of an Fine-tuned LSTM Model
+# Comparison of Different Kernel Initializers and Optimizers on the Performance of an Fine-tuned LSTM Model
 
 <font size=3>In this AASD4011 project, IMDB dataset of 50K movie reviews from Kaggle is analyzed in this notebook. Instead of using pre-existing solutions, we plan to construct our own model from scratch. <br>
 <br>
